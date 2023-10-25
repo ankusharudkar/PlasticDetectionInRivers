@@ -8,7 +8,7 @@ Upon evaluation, the first approach demonstrated better performance on training 
 
 ![Plastic detection model results](image.png)
 
-To test the implementation model on realistic images, images from **River Torrens, Adelaide** were captured to test the plastic detector accuracy. Following image shows results obtained from YOLOv5 and proposed approach utilizing FastSAM
+To test the implementation  of models on realistic images, images from **River Torrens, Adelaide** were captured to test the plastic detector's accuracy. Following image shows results obtained from YOLOv5 and proposed approach utilizing FastSAM
 
 ![River Torrens](image-1.png)
 
